@@ -750,6 +750,9 @@ a:hover {
     padding-left: 0rem;
   }
 }
+.lead {
+  color: #808080;
+}
 
 .skill-mf span {
   color: #4e4e4e;
