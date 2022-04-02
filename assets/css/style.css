@@ -140,7 +140,7 @@ a:hover {
 
 /*--/ Title A /--*/
 .title-box {
-  margin-bottom: 4rem;
+  margin-bottom: 20px;
 }
 
 .title-a {
@@ -161,6 +161,40 @@ a:hover {
   background-color: #009973;
   margin: 0 auto;
 }
+.skill-mf .line-mf {
+  width: 100px;
+  height: 5px;
+  background-color: #009973;
+}
+.dot {
+  padding-top: -10px;
+  border-left: 5px dotted #009973;
+  height: 5px;
+  top: 24px;
+  right: -6px;
+}
+.line {
+  border-left: 5px solid #009973;
+  height: 90px;
+  padding-left: 30px;
+  padding-top: 0px;
+  text-align: left;
+}
+.line .text-muted {
+  padding-bottom: -5px;
+  margin-bottom: 0px;
+  font-weight: bold;
+}
+.line p {
+  padding-top: -5px;
+  margin-bottom: 0px;
+}
+.line p svg{
+  color: #009973;
+}
+.title-left svg {
+  color: #009973;
+}
 
 /*--/ Title Left /--*/
 .title-box-2 {
@@ -168,8 +202,9 @@ a:hover {
 }
 
 .title-left {
-  font-size: 2rem;
+  font-size: 30px;
   position: relative;
+  padding-bottom: 5px;
 }
 .title-left:before {
   content: "";
@@ -751,7 +786,7 @@ a:hover {
   }
 }
 .lead {
-  color: #fff;
+  color: #737373;
 }
 
 .skill-mf span {
@@ -766,6 +801,7 @@ a:hover {
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
   background-color: #009973;
+  text-align: center;
 }
 
 /*--------------------------------------------------------------
