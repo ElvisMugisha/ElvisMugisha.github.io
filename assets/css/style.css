@@ -142,6 +142,10 @@ a:hover {
 .title-box {
   margin-bottom: 20px;
 }
+.in-container {
+  margin-top: 0px;
+  padding-top: 0px;
+}
 
 .title-a {
   text-decoration: none;
@@ -787,6 +791,13 @@ a:hover {
 }
 .lead {
   color: #737373;
+  font-weight: bold;
+  font-size: 19px;
+  font-style: italic;
+}
+.cd-link {
+  color: #fff;
+  background-color: #009973;
 }
 
 .skill-mf span {
