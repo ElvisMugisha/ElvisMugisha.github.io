@@ -273,7 +273,7 @@ a:hover {
   line-height: 2;
 }
 .list-ico span {
-  color: #0078ff;
+  color: #009973;
   margin-right: 10px;
 }
 
@@ -328,7 +328,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: #009973;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -352,7 +352,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: #009973;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -364,7 +364,7 @@ a:hover {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #298eff;
+  background: #009973;
   color: #fff;
 }
 .back-to-top.active {
@@ -390,7 +390,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid #009973;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -434,14 +434,14 @@ a:hover {
   outline: 0;
 }
 .button:hover {
-  background-color: #0062d3;
+  background-color: #009973;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color: #009973;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -576,7 +576,7 @@ a:hover {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #0078ff;
+  color: #009973;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -664,7 +664,7 @@ a:hover {
   color: #4e4e4e;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #0078ff;
+  color: #009973;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -690,7 +690,7 @@ a:hover {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #0078ff;
+  color: #009973;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -825,6 +825,9 @@ a:hover {
   margin-bottom: 3rem;
   text-align: center;
 }
+.swiper-slide {
+  margin-bottom: 3rem;
+}
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
@@ -918,11 +921,11 @@ a:hover {
 }
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: #009973;
   float: right;
 }
 .work-content .w-like a {
-  color: #0078ff;
+  color: #009973;
 }
 .work-content .w-like .num-like {
   font-size: 0.7rem;
@@ -952,10 +955,10 @@ a:hover {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid #009973;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: #009973;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -1011,7 +1014,7 @@ a:hover {
 }
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: #009973;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1038,6 +1041,7 @@ a:hover {
 
 .swiper-pagination {
   margin-top: 20px;
+  margin-bottom: 2rem;
   position: relative;
 }
 .swiper-pagination .swiper-pagination-bullet {
@@ -1099,11 +1103,11 @@ a:hover {
 }
 
 .contact-mf {
-  margin-top: 4rem;
+  margin-top: 0.5rem;
 }
 @media (min-width: 767px) {
   .contact-mf .box-pl2 {
-    margin-top: 3rem;
+    margin-top: 0.5rem;
     padding-left: 0rem;
   }
 }
@@ -1216,7 +1220,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: #009973;
   border-radius: 4px;
 }
 .card-blog .card-category .category {
@@ -1275,7 +1279,7 @@ a:hover {
   margin: 1rem 0;
 }
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #009973;
   margin-top: 1rem;
 }
 .blog-wrapper .post-meta ul li {
@@ -1283,13 +1287,13 @@ a:hover {
   margin-left: 15px;
 }
 .blog-wrapper .post-meta ul a {
-  color: #0078ff;
+  color: #009973;
 }
 .blog-wrapper .post-meta ul span {
   color: #1e1e1e;
 }
 .blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid #009973;
   padding: 18px;
   font-style: italic;
 }
@@ -1320,7 +1324,7 @@ a:hover {
   padding-left: 25px;
 }
 .box-comments .list-comments a {
-  color: #0078ff;
+  color: #009973;
 }
 .box-comments .list-comments span {
   color: #1e1e1e;
@@ -1334,7 +1338,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid #009973;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1349,7 +1353,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: #009973;
   top: 20px;
 }
 
@@ -1359,8 +1363,8 @@ a:hover {
   transition: all 0.5s ease-in-out;
 }
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
+  background-color: #009973;
+  border-color: #009973;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1368,7 +1372,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
+  background-color: #009973;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1384,7 +1388,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: #009973;
 }
 footer .copyright {
   margin-bottom: 0.3rem;
