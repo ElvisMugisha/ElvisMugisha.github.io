@@ -803,6 +803,10 @@ a:hover {
   color: #fff;
   background-color: #009973;
 }
+.skill-mf .title-box-2 {
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+}
 
 .skill-mf span {
   color: #4e4e4e;
