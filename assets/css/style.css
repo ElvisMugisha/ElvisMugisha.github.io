@@ -794,6 +794,10 @@ a:hover {
   font-weight: bold;
   font-size: 19px;
   font-style: italic;
+  margin-bottom: 1rem;
+}
+.lead1 {
+  margin-bottom: 5rem;
 }
 .cd-link {
   color: #fff;
