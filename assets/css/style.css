@@ -1075,7 +1075,7 @@ a:hover {
 .container .container a:hover {
   color: #18d26e;
 }
-.col-md-6 .row .col-md-12 a{
+.col-md-6 .row .col-md-6 a{
   text-decoration: none;
   font-size: 1.7rem;
   font-weight: bold;
@@ -1088,11 +1088,11 @@ a:hover {
   border-radius: 10px;
 
 }
-.col-md-6 .row .col-md-12 a span{
+.col-md-6 .row .col-md-6 a span{
   position: relative;
   width: 1.5rem;
 }
-.col-md-6 .row .col-md-12 a span:after{
+.col-md-6 .row .col-md-6 a span:after{
   content: '\21D3';
   font-size: 1.5rem;
   position: absolute;
